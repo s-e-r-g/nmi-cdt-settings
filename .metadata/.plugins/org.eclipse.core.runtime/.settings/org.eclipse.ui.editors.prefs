@@ -1,0 +1,15 @@
+#Fri Nov 16 16:57:56 EET 2012
+taskIndication=true
+lineNumberRuler=true
+bookmarkTextStyle=UNDERLINE
+spellingEngine=org.eclipse.jdt.internal.ui.text.spelling.DefaultSpellingEngine
+revisionRulerShowAuthor=true
+printMargin=true
+spacesForTabs=true
+quickdiff.nowarn.before.switch=always
+eclipse.preferences.version=1
+taskTextStyle=DASHED_BOX
+revisionRulerShowRevision=true
+undoHistorySize=20000
+printMarginColumn=120
+overviewRuler_migration=migrated_3.1
